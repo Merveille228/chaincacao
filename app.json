@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "chaincacao",
+    "slug": "chaincacao",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
